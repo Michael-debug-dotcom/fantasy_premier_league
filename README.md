@@ -38,6 +38,7 @@ Run the script to fetch data from FPL API.
 Train the machine learning model using historical player data.
 Use the model to predict and recommend top-performing players.
 View team ratings based on their performance and injury status.
+
 Requirements:
 Python 3.x
 Libraries: requests, pandas, sklearn
